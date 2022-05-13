@@ -9,7 +9,7 @@ Repositório do desafio projeto sobre Git/Github do Bootcamp
 
 <a href="https://gist.github.com/rxaviers/7360908" target="_blank">Lista completa de emojis para Markdown</a>
 
-<a href="https://wereturtle.github.io/ghostwriter/" target="_blank">Edior de texto Markdown</a>
+<a href="https://wereturtle.github.io/ghostwriter/" target="_blank">Editor de texto Markdown</a>
 
 ***
 
